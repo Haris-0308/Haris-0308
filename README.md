@@ -59,6 +59,9 @@ Here are some ideas to get you started:
   
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Haris-0308&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hari's Most Used Languages" />
 </div>
-
-  
+## Leetcode Status ⚡️
+<br>
+<div align=center>
+    <img width=390 src="https://leetcard.jacoblin.cool/Hari_S1?theme=dark&font=Content" alt="Hari's Leetcode Status" />
+</div>
 <hr>
