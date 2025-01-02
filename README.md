@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Haris-0308/count.svg" alt="Visitor's Count" />
+
+<img width=500 src="https://github.com/Haris-0308/Haris-0308/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
 </div>
-<img width=390 src="https://github.com/Haris-0308/Haris-0308/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hari;" />
 </h1>
