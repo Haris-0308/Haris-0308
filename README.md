@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p> 
 <h1>AI/ML</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,pandas" />
 </p>
 <hr>
 ## ⚡️ Stats
