@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 
 <br>
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,mongodb,flask,c,tensorflow,pandas" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,figma,mysql,aws,ai" />
@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 ## Leetcode Status ⚡️
 <br>
 <div align=center>
-    <img width=390 src="https://leetcard.jacoblin.cool/Hari_S1?theme=dark&font=Content" alt="Hari's Leetcode Status" />
+    <img width=390 src="https://leetcard.jacoblin.cool/Hari_S1?theme=dark&font=Content&ext=heatmap" alt="Hari's Leetcode Status" />
 </div>
 <hr>
