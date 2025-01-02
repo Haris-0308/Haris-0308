@@ -44,11 +44,18 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+<h1>Programming Languages</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,mongodb,flask,c,tensorflow,pandas" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma,mysql,aws,ai" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,cs" />  
 </p>
-
+<h1>Fullstack Development</h1>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,mysql,react,mongodb,nodejs" />
+</p> 
+<h1>AI/ML</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,opencv" />
+</p>
 <hr>
 ## ⚡️ Stats
 
