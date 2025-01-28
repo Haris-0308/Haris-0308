@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <a href="haris03082005@gmail.com">
+  <a href="mailto:haris03082005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/hari-s-382244259" target="_blank">
