@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: haris0308@gmail.com
 -->
 <div align="center"> 
-<p align="center">Visitor count</p>
-<p align="center">
-  <img src="https://count.getloli.com/get/@Haris-0308?theme=gelbooru-h" alt="Visitor Count" />
-</p>
+<h1 align="center">
+  <img width="600" src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=80" alt="Professional developer banner">
+</h1>
+
 
 </div>
 <h1 align="center">
