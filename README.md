@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about python,java
 - 📫 How to reach me: haris0308@gmail.com
 -->
-<div align="center"> 
-<h1 align="center">
-<img width=600 src="https://github.com/Haris-0308/Haris-0308/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
-</h1>
+<div align="center">
+  <p><b>Visitor Count</b></p>
+  <img src="https://count.getloli.com/get/@Haris-0308?theme=moebooru" alt="Visitor Count" />
+</div>
+
 
 
 
