@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about python,java
 - 📫 How to reach me: haris0308@gmail.com
 -->
-<div align="center">
-  <p><b>Visitor Count</b></p>
-  <img src="https://profile-counter.glitch.me/Haris-0308/count.svg" alt="Visitor Count" />
-</div>
 
 
 
