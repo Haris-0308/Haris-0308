@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 <h1 align="center">
-  <img width="600" src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=80" alt="Professional developer banner">
+<img width=600 src="https://github.com/Haris-0308/Haris-0308/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
 </h1>
+
 
 
 </div>
