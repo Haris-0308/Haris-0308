@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <p><b>Visitor Count</b></p>
-  <img src="https://count.getloli.com/get/@Haris-0308?theme=moebooru" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Haris-0308/count.svg" alt="Visitor Count" />
 </div>
 
 
