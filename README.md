@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: haris0308@gmail.com
 -->
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Haris-0308/count.svg" alt="Visitor's Count" />
+<p align="center">Visitor count</p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@Haris-0308?theme=gelbooru-h" alt="Visitor Count" />
+</p>
+
 </div>
 <h1 align="center">
 <img width=600 src="https://github.com/Haris-0308/Haris-0308/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
